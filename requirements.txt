@@ -1,9 +1,5 @@
 streamlit
-PIL
+Pillow
 pandas
-base64
-matplotlib.pyplot
-BeautifulSoup
-requests
-json
-time
+matplotlib
+beautifulsoup4
