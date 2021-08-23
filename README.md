@@ -21,6 +21,6 @@ Libraries:
 
 ![](getJSON.png)
 
-I had to change the
+I had to change some variables like percentChange24h, percentChange1h, percentChange7d
 
 ## 2. Run "streamlit run main.py"
