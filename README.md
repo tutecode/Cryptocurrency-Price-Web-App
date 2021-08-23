@@ -15,9 +15,11 @@ Libraries:
  pip install -r requirements.txt
  ```
 
-![](getJSON.png)
+
 
 ## 2. Create "main.py" file
+
+![](getJSON.png)
 
 I had to change the
 
