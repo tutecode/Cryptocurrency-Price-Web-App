@@ -11,10 +11,11 @@ Libraries:
 
 - base64: In Python the base64 module is used to encode and decode data. First, the strings are converted into byte-like objects and then encoded using the base64 module. The below example shows the implementation of encoding strings isn't base64 characters. (https://docs.python.org/3/library/base64.html)
 
-
  ```bash
  pip install -r requirements.txt
  ```
+
+![](getJSON.png)
 
 ## 2. Create "main.py" file
 
