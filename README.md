@@ -1,7 +1,8 @@
 # Cryptocurrency-Price-Web-App
- Cryptocurrency web app with Streamlit
 
- Project from: https://youtu.be/OYsz4Ww0h3o?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
+Cryptocurrency web app with Streamlit
+
+Project from: https://youtu.be/OYsz4Ww0h3o?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
 
 ## 1. Create "requirements.txt" file and install libraries
 
@@ -14,13 +15,21 @@ Libraries:
  ```bash
  pip install -r requirements.txt
  ```
+ 
+## 2. Run
 
+ ```bash
+ streamlit run main.py
+ ```
 
+## Old bugs
 
-## 2. Create "main.py" file
+- I had to change some variables like percentChange24h, percentChange1h, percentChange7d
 
 ![](getJSON.png)
 
-I had to change some variables like percentChange24h, percentChange1h, percentChange7d
+- https://github.com/dataprofessor/streamlit_freecodecamp/issues/9
 
-## 2. Run "streamlit run main.py"
+## Preview
+
+![](preview.png)
